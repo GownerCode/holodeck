@@ -1,0 +1,16 @@
+{
+  "name": "converse",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@openrouter/ai-sdk-provider": "^1.0.0-beta.1",
+    "ai": "^5.0.0-beta.14"
+  }
+}
