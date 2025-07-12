@@ -102,7 +102,7 @@ for (let i = 0; i < 2; i++) {
 }
 ```
 
-![Holodeck Simulation Example](./assets/chat.png)
+![Holodeck Simulation Example](./.assets/chat.png)
 
 ## What's next?
 
